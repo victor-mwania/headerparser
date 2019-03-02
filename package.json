@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"cors": "^2.8.1",
-		"express": "^5.0.0-alpha.2",
+		"express": "^5.0.0-alpha.7",
 		"ua-parser-js": "^0.7.18"
 	},
 	"engines": {
@@ -18,7 +18,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://hyperdev.com/#!/project/welcome-project"
-},
+	},
 	"keywords": [
 		"node",
 		"hyperdev",
@@ -27,4 +27,3 @@
 	],
 	"license": "MIT"
 }
-
