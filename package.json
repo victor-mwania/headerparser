@@ -9,7 +9,7 @@
 	"dependencies": {
 		"cors": "^2.8.1",
 		"express": "^5.0.0-alpha.7",
-		"ua-parser-js": "^0.7.18"
+		"ua-parser-js": "^0.7.24"
 	},
 	"engines": {
 		"node": "4.7.0",
